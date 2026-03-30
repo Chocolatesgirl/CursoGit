@@ -11,8 +11,10 @@ version guardada.
 open index.html: abre el archivo directamente en el navegador
 git log: muestra información detallada
 git log --oneline --graph --decorate: 
+git commit -m "mensaje": ejecuta dos comandos a la vez (add y commmit)
 """
 
 print("Hola mundo desde Python")
 print("Segunda linea")
 print("Tercera linea")
+print("Cuarto cambio")
